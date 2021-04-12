@@ -1,7 +1,6 @@
 # Water counter
 
-#### Application developed for educational and self-learning purposes. Soon, new reversals with the use of React Hooks.
-
+## Application developed for educational and self-learning purposes. Soon, new reversals with the use of React Hooks.
 
 ![](https://github.com/leticiarose/contadorAguaReactNative/blob/930316d55565e1a8a8c09ac009b9a4380d39d642/images/Web%20Version%20Contador%20Agua.gif)
 
@@ -20,7 +19,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 
 ## How to clone the repository
-###First, you need to clone the repository on your computer to make changes to the code. But before cloning the repository it is important that you perform a ** fork **, that is, create a copy of it for your github. To do this, just go up the page and click on the button of the same name and wait a few minutes. Then, just click ** clone or download ** and copy the repository URL.
+### First, you need to clone the repository on your computer to make changes to the code. But before cloning the repository it is important that you perform a ** fork **, that is, create a copy of it for your github. To do this, just go up the page and click on the button of the same name and wait a few minutes. Then, just click ** clone or download ** and copy the repository URL.
 
 - When opening Git bash, to clone, type the following line of code and enter the URL copied previously:
 
