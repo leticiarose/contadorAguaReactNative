@@ -19,8 +19,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 
+## How to clone the repository
+###First, you need to clone the repository on your computer to make changes to the code. But before cloning the repository it is important that you perform a ** fork **, that is, create a copy of it for your github. To do this, just go up the page and click on the button of the same name and wait a few minutes. Then, just click ** clone or download ** and copy the repository URL.
 
-## Contact me
+- When opening Git bash, to clone, type the following line of code and enter the URL copied previously:
+
+$ git clone <url-do-repositorio>
+
+## 📥 Installing the Dependencies 📥
+
+- To install the project dependencies, just open the IDE terminal of your choice and type the following line:
+
+$ npm install
+
+## 📞 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Letícia_Rose-FF82AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letíciarose/)](https://www.linkedin.com/in/letíciarose/) 
 [![Gmail Badge](https://img.shields.io/badge/-leticia.rosedesanatana@gmail.com-FF82AB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rosedesanatana@gmail.com)](mailto:leticia.rosedesanatana@gmail.com)
