@@ -1,0 +1,12 @@
+{
+  "name": "AppContadorAgua",
+  "displayName": "AppContadorAgua",
+  "expo": {
+    "name": "AppContadorAgua",
+    "slug": "AppContadorAgua",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
